@@ -4,7 +4,7 @@ Asteroids made in 3 days with unity, with main focus on using scriptable objects
 
 - Project follows the "Low Coupling, High Cohesion" principle
 - Components are built keeping reusability in mind
-- Makes use of reactive variables which help in decoupling the components<br/><br/>
+- Makes use of reactive variables which help in decoupling the components<br/>
 
 
 #### Sounds used
