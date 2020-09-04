@@ -6,9 +6,6 @@ Asteroids made in 3 days with unity, with main focus on using scriptable objects
 - Components are built keeping reusability in mind
 - Makes use of reactive variables which help in decoupling the components<br/><br/>
 
-#### Playable link
-
-https://ahmedkamal.itch.io/asteroids <br/><br/>
 
 #### Sounds used
 
