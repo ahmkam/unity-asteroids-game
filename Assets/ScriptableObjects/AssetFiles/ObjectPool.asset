@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 704495e13670f40fba50abaaaf212cc4, type: 3}
+  m_Name: ObjectPool
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 4597674659739439686, guid: bbc1db88bfe754bd3b088aa4c8b4a1ad,
+    type: 3}
+  smallAsteroidPrefab: {fileID: 3729217896865320500, guid: c3d4249ed1c1e48b9bdb528d57c2b80b,
+    type: 3}
+  largeAsteroidPrefab: {fileID: 2981347573863245829, guid: dab8e9652d1b9424eb4ac29e460eb8c7,
+    type: 3}
+  flyingSaucerPrefab: {fileID: 2159824468648269191, guid: bd06f357d54d540f388129a6fc3b9d42,
+    type: 3}

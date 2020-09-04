@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e48fff6d83cf48fc8ad9473e44a6996, type: 3}
+  m_Name: SharedData
+  m_EditorClassIdentifier: 
+  configurationData: {fileID: 11400000, guid: fb4b4b1e1027b4d86b8564eae3357672, type: 2}
+  score: {fileID: 11400000, guid: 7dde078585de845479c590eadbc077ee, type: 2}
+  level: {fileID: 11400000, guid: 78641ca5c00334310a9bea993556dd0f, type: 2}
+  lives: {fileID: 11400000, guid: 252ae61ab6cd84e8b9deeed20876aa65, type: 2}
+  gameOver: {fileID: 11400000, guid: 39161f4a607134c01b3492ce13b82adc, type: 2}
